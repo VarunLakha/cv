@@ -1,0 +1,167 @@
+body{
+    color: #27302e;
+    margin: 0;
+    text-align: center;
+    font-family: sans-serif;
+     
+}
+.top-container {
+    background-color: #e4f9f5;
+    position: relative;
+    height: 400px;
+    margin: 0;
+
+}
+.age{
+    width: 50%;
+    margin:20px auto;
+    color: #3a8d8d;
+}
+.job{
+    margin:20px auto;
+    width: 50%;
+    color: #3a8d8d;
+}
+h1{
+    width: 50%;
+    margin-top: 0;  
+    margin: auto;
+    color: #3a8d8d;
+}
+.my-dp{
+    position: relative;
+    border-radius: 50%;
+    top: 130px;
+    right: 400px;
+}
+hr{
+    position:relative;
+    border-style:none ;
+    border-top-style: dotted;
+    border-color: rgb(32, 136, 150);
+    width: 8%;
+    border-width: 7px;
+}
+.sec-container{
+    position: relative;
+    background-color: #FEF5ED; 
+    display: inline-block;
+    width:100%;
+      
+}
+h2{
+    color: #359191;
+}
+h3{
+    color: #39addb;
+}
+.profile{
+    width: 50%;
+    margin: 50px auto;
+    text-align: left;
+    line-height: 2;
+    
+}
+.profile-para{
+    color: #227191;
+    
+
+}
+.logo-ism{
+    width: 20%;
+    float: left;
+    margin-right: 30px;
+}
+.career{
+    width: 50%;
+    margin: 50px auto;
+    text-align: left;
+    line-height: 2;
+
+}
+.logo-o{
+    width: 25%;
+    float: right;
+    margin-left: 50px;
+    margin-top: 6px;
+}
+.tech-skills{
+    position: relative;
+    background-color: #f5e6ef;
+    display: inline-block;
+    width: 100%;
+  
+}
+.elec {
+    width: 25%;
+    margin: 50px auto;
+    display: table-cell;
+}
+.elec-logo{
+    width: 40%;
+}
+.webds{
+    width: 25%;
+    margin: 50px auto;
+    display: table-cell;
+    
+}
+.html-logo{
+    width: 40%;
+}
+.python{
+    width: 25%;
+    margin: 50px auto;
+    display: table-cell;
+    
+}
+.python-logo{
+    width: 40%;
+}
+.plc{
+    width: 25%;
+    margin: 50px auto;
+    display: table-cell;
+}
+.plc-logo{
+    width: 40%;
+}
+.softbox{
+    position: relative;
+    background-color: rgb(243, 255, 232);
+    display: flex;
+    flex-direction: row;
+}
+.soft{
+    width: 30%;
+    margin: 50px auto;
+    text-align: left;
+
+}
+.hobby{
+    width: 30%;
+    margin: 50px auto;
+    text-align: left;  
+
+}
+.contact{
+    background-color: #FFF5E1;
+    display: inline-block;
+    width: 100%;
+}
+.list{
+    color: #227191;
+}
+.social{
+    height: 40px;
+    width: 40px;
+    margin-right: 15px;
+    margin-left: 15px;
+}
+
+ 
+
+
+    
+    
+
